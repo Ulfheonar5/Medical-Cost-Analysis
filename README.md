@@ -1,2 +1,2 @@
 # Medical-Cost-Analysis
-Health Insurance Cost Prediction with ML
+Dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance
